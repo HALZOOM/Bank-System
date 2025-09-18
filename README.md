@@ -1,4 +1,3 @@
-# Project Name
 ### Bank System
 
 ## Overview
@@ -38,12 +37,3 @@ The project have to options admin or user and each one has his own operations:
 
 ## Installation
 - Install it and make you config file to link files and enjoy.
-
-## Updates
-- The project have things that I didn't use but i add it for future updates.
-
-## Contributors
-1. Me.
-2. Hazim Hassan.
-3. HALZOOM.
-4. 3antr.
