@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Bank_System.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\ar.exe qc CMakeFiles\Bank_System.dir/objects.a @CMakeFiles\Bank_System.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Bank_System.dir/objects.a -Wl,--no-whole-archive -o Bank_System.exe -Wl,--out-implib,libBank_System.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Bank_System.dir\linkLibs.rsp
